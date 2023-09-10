@@ -1,0 +1,28 @@
+/*This is the properties for the main card*/
+#card {
+  border: 2px solid red;
+  width: 200px;
+  height: 250px;
+  padding: none;
+  border-radius: 4%;
+  position: relative;
+  margin: 10px;
+  float: left;
+}
+
+/*This is the properties for the title*/
+#title {
+  padding: none;
+  margin: auto;
+  text-align: center;
+}
+
+/*This is the properties for the image*/
+#image {
+  width: inherit;
+}
+
+/*This is the properties for the tcontenet*/
+#content {
+  text-align: center;
+}

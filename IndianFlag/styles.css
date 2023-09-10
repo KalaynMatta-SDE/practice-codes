@@ -1,0 +1,39 @@
+div.mydiv {
+  height: 60px;
+  width: 120px;
+  margin: auto;
+  border-radius: 4px;
+  border: 0.4px solid black;
+}
+
+#orange {
+  background-color: orange;
+  height: 20px;
+  margin: 0px;
+  width: inherit;
+  border-top-right-radius: inherit;
+  border-top-left-radius: inherit;
+}
+
+#white {
+  background-color: white;
+  height: 20px;
+  margin: 0px;
+  width: inherit;
+  border-radius: inherit;
+}
+
+#green {
+  background-color: green;
+  height: 20px;
+  margin: 0px;
+  width: inherit;
+  border-bottom-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+}
+
+img {
+  width: 20%;
+  height: inherit;
+  padding: 0px 45px;
+}
